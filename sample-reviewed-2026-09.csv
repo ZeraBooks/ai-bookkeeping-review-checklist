@@ -1,0 +1,13 @@
+Date,Description,Amount,Account,Type,How you know
+2026-09-01,ONLINE TRANSFER TO SAV ...4410,-2000.00,Transfer to savings,Transfer,The other account's number is in the description
+2026-09-03,CAPITAL ONE MOBILE PMT,-1284.16,Transfer to business credit card,Transfer,Same amount appears as a payment on the card statement
+2026-09-04,SQ *GREEN THUMB NURSERY,-1140.00,Materials,Cost of goods sold,Plants for a client job; receipt on file
+2026-09-08,DEPOSIT 09/08,4850.00,Accounts receivable (invoice 1042),Customer payment,Amount matches an open invoice
+2026-09-10,ZELLE TO J MORALES,-650.00,Contract labor,Expense,Owner confirmed a subcontractor; collect a W-9
+2026-09-12,SBA EIDL LOAN PMT,-731.00,Loan payable,Liability,Lender statement shows the split; move the interest part to Interest expense
+2026-09-15,IRS USATAXPYMT,-3200.00,Owner's draws,Owner's draws,Owner's personal estimated tax; not a business expense
+2026-09-17,AMAZON MKTPL*2K41,-89.47,Supplies,Expense,Order history: trimmer line and gloves
+2026-09-19,CHECK 1187,-425.00,Repairs and maintenance,Expense,Check image: small engine shop; mower repair
+2026-09-22,ATM WITHDRAWAL,-300.00,Ask the owner,Ask,Petty cash for the crew or a draw
+2026-09-26,TARGET 00012345,-63.18,Owner's draws,Owner's draws,Owner says it was household shopping
+2026-09-30,MONTHLY SERVICE FEE,-15.00,Bank fees,Expense,Printed by the bank

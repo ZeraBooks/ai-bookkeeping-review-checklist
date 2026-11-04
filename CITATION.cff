@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite them as below."
+title: "AI bookkeeping review checklist"
+type: dataset
+authors:
+  - name: "ZeraBooks"
+    website: "https://www.zerabooks.com"
+url: "https://github.com/ZeraBooks/ai-bookkeeping-review-checklist"
+repository-code: "https://github.com/ZeraBooks/ai-bookkeeping-review-checklist"
+license: CC-BY-4.0
+abstract: "AI bookkeeping software can read statements and categorize most transactions, but a person still has to check the month before it is closed: that every statement ties to its printed balances, that transfers, card payments, loan principal and owner's draws stayed off the profit and loss, and that tax payments, cash and mixed merchants were asked about, not guessed."
+keywords:
+  - ai-bookkeeping
+  - bookkeeping
+  - accounting
+  - checklist
+  - transaction-categorization
+  - month-end-close
+  - csv
+date-released: 2026-11-04

@@ -1,0 +1,9 @@
+Match,Direction,Account,Type,Review,Note
+TRANSFER TO SAV,out,Transfer to savings,Transfer,no,Pair with the deposit on the savings statement
+CAPITAL ONE MOBILE PMT,out,Transfer to business credit card,Transfer,no,The card charges are the expenses; the payment only settles the card
+GREEN THUMB NURSERY,out,Materials,Cost of goods sold,no,Plants and soil for client jobs
+ZELLE TO J MORALES,out,Contract labor,Expense,no,Subcontractor; W-9 on file
+SBA EIDL LOAN PMT,out,Loan payable,Liability,yes,Split the interest out from the lender statement
+IRS USATAXPYMT,out,Owner's draws,Owner's draws,yes,Always ask: owner's personal estimated tax for a sole proprietor; a corporation's own tax is different
+AMAZON MKTPL,out,Supplies,Expense,yes,Mixed merchant; check the order history
+MONTHLY SERVICE FEE,out,Bank fees,Expense,no,Printed by the bank
