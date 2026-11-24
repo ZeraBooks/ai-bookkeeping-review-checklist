@@ -83,7 +83,7 @@ without anyone noticing. Keep the rules file short and review it each quarter.
 ## Learn more
 
 How AI bookkeeping works inside a double-entry ledger:
-[AI bookkeeping](https://www.zerabooks.com/ai-bookkeeping). The full worked
+[ZeraBooks AI bookkeeping](https://www.zerabooks.com/ai-bookkeeping). The full worked
 pile: [How to categorize uncategorized transactions](https://www.zerabooks.com/how-to-categorize-uncategorized-transactions).
 
 ## License
@@ -92,4 +92,4 @@ The content and data in this repository are licensed under
 [CC BY 4.0](LICENSE). The code (`apply_rules.py`) is licensed under
 [MIT](LICENSE-CODE).
 
-Maintained by [ZeraBooks](https://www.zerabooks.com).
+Maintained by ZeraBooks.
